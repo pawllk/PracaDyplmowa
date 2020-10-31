@@ -1,0 +1,9 @@
+Instrukcja lini do inputa
+1- wybór algorytmu P-t-P 0 lub P-t-G 1
+2- rozmiar pola clos VxV oraz przepustowość łączy 
+3- ilość zródeł ruchu erlanga
+4- wlasciwosci do ruchu erlanga 1
+...
+5- wlasciwosci do ruchu erlanga n
+6- to samo dla reszty zródeł
+7-seedy do generatorów
